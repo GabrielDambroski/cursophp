@@ -1,1 +1,5 @@
-# cursophp
+<php>
+  
+  echo "Hello word!!";
+  
+?>
